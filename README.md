@@ -1,6 +1,6 @@
 # Izere-Ange-Felix
 Izere Ange Felix - Junior FS Developer - Redacre tech test 
-## BACKEND SIDE
+## FRONTEND SIDE
 ![Repository]("https://github.com/Angelus123/redacre-exchanger-frontend/assets/landing_page.PNG")
 
 ### Additional Tools
@@ -44,3 +44,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+you can visit the app at:
+https://exchanger-v1.netlify.app/
